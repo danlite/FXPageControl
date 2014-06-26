@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary      = "Drop-in replacement for UIPageControl that adds the ability to edit the dot color, shape, shadow, size, image and spacing."
   s.homepage      = "https://github.com/nicklockwood/FXPageControl"
   s.author        = { "Nick Lockwood" => "support@charcoaldesign.co.uk" }
-  s.source        = { :git => "https://github.com/DanLite/FXPageControl.git", :tag => "1.3.2" }
+  s.source        = { :git => "https://github.com/DanLite/FXPageControl.git" }
   s.platform      = :ios
   s.source_files  = 'FXPageControl/'
   s.requires_arc  = true
